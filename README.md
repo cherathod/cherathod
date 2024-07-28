@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @cherathod
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, MySQL, 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Python, and Machine Learning 
+- 💞️ I’m looking to collaborate on Data Science
+- 📫 How to reach me chetanrathodins03@gmail.com
+- 😄 Pronouns: Chetan Rathod
 - ⚡ Fun fact: ...
 
 <!---
